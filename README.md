@@ -26,6 +26,12 @@ The dataset contains 8,000 entries with the following features:
 - **Behavioral Data:** Previous Purchases, Loyalty Points  
 - **Outcome Variables:** ClickThroughRate, ConversionRate, Conversion (binary)
 
+The dataset was originally sourced from [Kaggle](https://www.kaggle.com/) and is intended for educational and project demonstration purposes.
+
+- No real customer data is used
+- Suitable for academic, portfolio, and non-commercial use
+
+
 ---
 
 ## Key Visual Insights
