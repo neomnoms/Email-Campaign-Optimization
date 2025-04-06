@@ -71,8 +71,8 @@ Customers were clustered into 3 distinct segments based on:
 
 ## Tableau Dashboard
 
-📍 **Explore the interactive dashboard here:**  
-👉 [View on Tableau Public](link coming soon) 
+**Explore the interactive dashboard here:**  
+[View on Tableau Public](link coming soon) 
 
 Includes:
 - CTR by Age Group
