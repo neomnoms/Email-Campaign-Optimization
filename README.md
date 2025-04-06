@@ -87,7 +87,7 @@ Includes:
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 
 - Experiment with additional models (Random Forest, XGBoost)
 - Add campaign cost and ROI analysis
@@ -95,7 +95,7 @@ Includes:
 
 ---
 
-## 🙋‍♀️ Author
+## Author
 
 **Naomi [@neomnoms](https://github.com/neomnoms)**  
 A marketing-minded data analyst passionate about ethical AI, customer behavior, and creating actionable insights through storytelling.
